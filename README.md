@@ -1,3 +1,3 @@
 # sql-data-warehouse-project
 Building a modern data warehouse with SQL Server, including ETL processess, data modeling, and analytics
-## Requiremts Analysis
+## Requirements Analysis
